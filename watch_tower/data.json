@@ -1,5 +1,12 @@
 {
-    "apple": "greatstock",
-    "gld": "cheaprightnow",
-    "meta": "Great and amazing stock to buy right now"
+    "appl": {
+        "ticker": "appl",
+        "notes": "It is not a bad stock",
+        "added_date": "2026-06-24T16:03:16.370132"
+    },
+    "tsla": {
+        "ticker": "tsla",
+        "notes": "They have fast cars",
+        "added_date": "2026-06-24T16:05:10.762059"
+    }
 }
