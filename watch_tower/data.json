@@ -1,12 +1,20 @@
 {
-    "appl": {
-        "ticker": "appl",
-        "notes": "It is not a bad stock",
-        "added_date": "2026-06-24T16:03:16.370132"
-    },
-    "tsla": {
-        "ticker": "tsla",
-        "notes": "They have fast cars",
-        "added_date": "2026-06-24T16:05:10.762059"
+    "schema_version": 2,
+    "holding": {
+        "appl": {
+            "ticker": "appl",
+            "notes": "it is a good holding",
+            "added_date": "2026-06-25T13:31:13.840835"
+        },
+        "meta": {
+            "ticker": "meta",
+            "notes": "they have meta glasses and it is cool",
+            "added_date": "2026-06-25T13:34:24.939793"
+        },
+        "amzn": {
+            "ticker": "amzn",
+            "notes": "they have aws and its cool",
+            "added_date": "2026-06-25T13:35:03.447431"
+        }
     }
 }
